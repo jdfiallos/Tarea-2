@@ -5,3 +5,78 @@ body {
     padding: 3rem 1.5rem;
     text-align: center;
 }
+
+h4, label {
+    font-family: 'Ubuntu', sans-serif;
+    color: #38215C;
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+}
+
+.nombre {
+    font-family: 'Ubuntu', sans-serif;
+    color: #38215C !important;
+}
+
+.form-control {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #38215C;
+    cursor: pointer;
+    float: inline-end;
+}
+
+h3  {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: 700;
+}
+
+h5 {
+    font-family: 'Ubuntu', sans-serif;
+    color: #38215C;
+    align-items: center;
+    justify-content: center;
+}
+
+label {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+p {
+    font-size: 23px;
+    font-weight: lighter;
+}
+
+.icono {
+    background-color: white;
+    height: 76px;
+    border-width: 1px;
+    border-color: black;
+    text-align: center;
+
+}
+
+.card {
+    width: 16rem; 
+    border-radius: 20px; 
+    color:white; 
+    cursor: pointer;
+}
+
+@media (max-width: 576px) {
+    .lugo {
+      display: none;
+    }
+  }
+  
